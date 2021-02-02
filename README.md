@@ -29,3 +29,10 @@ Each library contains the shapes of all the **classes** as well as the arrows fo
 See also:
 - https://desk.draw.io/support/solutions/articles/16000067790
 - http://jgraph.github.io/drawio-libs/
+
+## License
+
+Files in this repo are under the MIT License. To meet the attribution requirement of this license, you must indicate the copyright holder using the following:
+
+> Copyright (c) 2021 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau Canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
+
