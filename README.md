@@ -1,3 +1,5 @@
+[*Le français suit*](https://github.com/chin-rcip/diagrams.net_libraries#biblioth%C3%A8ques-logicielles-diagramsnet)
+
 # diagrams.net Libraries
 
 This is a repository hosting all diagrams.net (draw.io) libraries for the ontologies used in the context of CHIN's Linked Open Data (LOD) projects, mainly CIDOC CRM. 
