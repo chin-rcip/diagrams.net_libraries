@@ -54,7 +54,7 @@ Chaque bibliothèque logicielle contient les formes associées aux **classes** a
 ## Utilisation
 
 - Ouvrir un fichier de la bibliothèque logicielle :
-	1. Dans diagrams.net/draw.io, cliquer *Fichier > Ouvrir une librairie depuis* et sélectionner le service ou dispositif où le fichier est conservé, ou encore utiliser directement les URLs qui se trouvent dans la liste ci-bas. 
+	1. Dans diagrams.net/draw.io, cliquer *Fichier > Ouvrir une librairie depuis* et sélectionner le service ou dispositif où le fichier est conservé, ou encore utiliser directement les URLs qui se trouvent dans la liste ci-haut. 
 	2. Trouver et sélectionner la bibliothèque logicielle (l'extension de nom du fichier sera .xml), puis cliquer *Choisir*.
 
 - Télécharger une bibliothèque logicielle depuis un lien URL :
