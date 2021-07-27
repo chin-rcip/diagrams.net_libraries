@@ -312,7 +312,7 @@ OU
     7.  CRMgeo
         (([https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crmgeo_library.xml](https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crmpc_library.xml))
 
-![](/images/diagrams_net_fr_1.png)
+![](/images/diagrams_net_fr_1.PNG)
 
 #### Chargement d’une bibliothèque par son URL 
 
