@@ -56,20 +56,7 @@ A custom library is a set of pre-designed shapes that can be easily dragged and 
 
 Each library contains the shapes of all the [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) as well as the connectors for the [properties](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) of each ontology. The colour scheme (see below) is based on a proposal by George Bruseker for [CIDOC CRM](http://www.cidoc-crm.org/).
 
-<table>
-<tbody>
-<tr><td style="background-color: #FFFFFF">`E1_CRM_Entity` and any subclasses that are not subclasses of the below classes (#FFFFFF)</td></tr>
-<tr><td style="background-color: #82C3EC">`E2_Temporal_Entity` and its subclasses (#82C3EC)</td></tr>
-<tr><td style="background-color: #FAB565">`E55_Type` and its subclasses (#FAB565)</td></tr>
-<tr><td style="background-color: #86BCC8">`E52_Time-Span` and its subclasses (#86BCC8)</td></tr>
-<tr><td style="background-color: #FEF3BA">`E41_Appellation` and its subclasses (#FEF3BA)</td></tr>
-<tr><td style="background-color: #94CC7D">`E53_Place` and its subclasses (#94CC7D)</td></tr>
-<tr><td style="background-color: #FDDC34">`E28_Conceptual_Object` and its subclasses (#FDDC34)</td></tr>
-<tr><td style="background-color: #E1BA9C">`E18_Physical_Thing` and its subclasses (#E1BA9C)</td></tr>
-<tr><td style="background-color: #FFBDCA">`E41_Actor` and its subclasses (#FFBDCA)</td></tr>
-<tr><td style="background-color: #CC80FF">All PC_Classes (#CC80FF)</td></tr>
-</tbody>
-</table>
+![](/images/color_en.png)
 
 ## Intended Audience(s) and Section Description
 
@@ -129,7 +116,7 @@ OR
     7.  CRMgeo
         (([https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crmgeo_library.xml](https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crmpc_library.xml))
 
-![](/collections-model/images/diagrams_net_en_1.png)
+![](/images/diagrams_net_en_1.png)
 
 #### Loading a Library via a URL
 
@@ -165,11 +152,11 @@ Each library contains two types of shapes:
 
 Each shape has a label based on the CIDOC CRM naming convention, i.e. with an underscore after the entity’s code and between each string (`E2_Temporal_Entity`), and spaces in its title (E2 Temporal Entity) to facilitate the “**Search Shapes**” function located at the top of the left side panel.
 
-![](/collections-model/images/diagrams_net_en_2.png)
+![](/images/diagrams_net_en_2.png)
 
 To search for any shape, either classes or properties, enter its CIDOC CRM code and/or label.
 
-![](/collections-model/images/diagrams_net_en_3.png)
+![](/images/diagrams_net_en_3.png)
 
 ## Memory Aids
 
@@ -264,20 +251,7 @@ Une bibliothèque consiste en un ensemble de formes qu’on peut simplement glis
 
 Chaque bibliothèque contient les formes de toutes les [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) et les connecteurs correspondant aux [propriétés](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) de chaque ontologie. La palette de couleurs choisie (voir ci-dessous) est fondée sur une proposition de George Bruseker pour le [CIDOC CRM](http://www.cidoc-crm.org/) .
 
-<table>
-<tbody>
-<tr><td style="background-color: #FFFFFF">`E1_CRM_Entity` et toute sous-classe ne faisant pas partie des classes ci-dessous (#FFFFFF)</td></tr>
-<tr><td style="background-color: #82C3EC">`E2_Temporal_Entity` et ses sous-classes (#82C3EC)</td></tr>
-<tr><td style="background-color: #FAB565">`E55_Type` et ses sous-classes (#FAB565)</td></tr>
-<tr><td style="background-color: #86BCC8">`E52_Time-Span` et ses sous-classes (#86BCC8)</td></tr>
-<tr><td style="background-color: #FEF3BA">`E41_Appellation` et ses sous-classes (#FEF3BA)</td></tr>
-<tr><td style="background-color: #94CC7D">`E53_Place` et ses sous-classes (#94CC7D)</td></tr>
-<tr><td style="background-color: #FDDC34">`E28_Conceptual_Object` et ses sous-classes (#FDDC34)</td></tr>
-<tr><td style="background-color: #E1BA9C">`E18_Physical_Thing` et ses sous-classes (#E1BA9C)</td></tr>
-<tr><td style="background-color: #FFBDCA">`E41_Actor` et ses sous-classes (#FFBDCA)</td></tr>
-<tr><td style="background-color: #CC80FF">Toutes les PC_Classes (#CC80FF)</td></tr>
-</tbody>
-</table>
+![](/images/color_fr.png)
 
 ## Auditoire visé et description des sections 
 
@@ -338,7 +312,7 @@ OU
     7.  CRMgeo
         (([https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crmgeo_library.xml](https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crmpc_library.xml))
 
-![](/collections-model/images/diagrams_net_fr_1.png)
+![](/images/diagrams_net_fr_1.png)
 
 #### Chargement d’une bibliothèque par son URL 
 
@@ -374,11 +348,11 @@ Les bibliothèques contiennent deux types de formes :
 
 Chaque forme est étiquetée selon la nomenclature du CIDOC CRM, c’est-à-dire un caractère de soulignement après le code de l’entité et entre chaque mot, par exemple, « `E2_Temporal_Entity` ». Pour simplifier les recherches à l’aide du champ **Chercher des formes** dans la partie supérieure du volet de gauche, ces caractères de soulignement sont remplacés par des espaces dans le titre  : « E2 Temporal Entity ».
 
-![](/collections-model/images/diagrams_net_fr_2.png)
+![](/images/diagrams_net_fr_2.png)
 
 Pour trouver une forme en particulier (classes ou propriétés), entrez son code CIDOC CRM ou son titre dans le champ de recherche.
 
-![](/collections-model/images/diagrams_net_fr_3.png)
+![](/images/diagrams_net_fr_3.png)
 
 ## Aide-mémoire 
 
