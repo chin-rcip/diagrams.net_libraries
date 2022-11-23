@@ -8,7 +8,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 **Created date**: 2021-04-22
 
-**Last update**: 2021-05-26
+**Last update**: 2022-11-23
 
 **Contact**: For any questions and/or feedback, please contact us at pch.RCIP-CHIN.pch@canada.ca, indicating “diagrams.net libraries” in the subject line of the email.
 
@@ -34,7 +34,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 **[diagrams.net](https://www.diagrams.net/) libraries** is a collection of custom shape library files (.xml) of ontologies used to represent semantic patterns through [diagrams.net](https://www.diagrams.net/). It is maintained by the Canadian Heritage Information Network (CHIN) and used to generate diagrams in the context of its Linked Open Data projects. Currently, CHIN provides seven libraries for the following CIDOC CRM ontologies (i.e. the ones that are officially released in RDFS format). The libraries are of benefit to users who design diagrams for data models that are based on CIDOC CRM.
 
-  - CIDOC CRM base (version 6.2.1)
+  - CIDOC CRM base (version 7.1.1)
 
   - FRBRoo (version 2.4)
 
@@ -42,7 +42,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
   - CRMdig (version 3.2.2)
 
-  - CRMpc (version 1.1.1)
+  - CRMpc (version 7.1.1)
 
   - CRMarchaeo (version 1.4.1)
 
@@ -229,7 +229,7 @@ Un aperçu des bibliothèques logicielles diagrams.net et explique comment les u
 
 Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ensemble de fichiers XML d’ontologies qui sert à représenter des patrons conceptuels à l’aide du logiciel [diagrams.net](https://www.diagrams.net/). Tenu à jour par le Réseau canadien d’information sur le patrimoine (RCIP), ces bibliothèques logicielles permettent de créer des diagrammes dans le cadre de projets de données ouvertes et liées. Le RCIP a jusqu’à maintenant créé sept bibliothèques destinées aux ontologies du Modèle conceptuel de référence du Comité international pour la Documentation (CIDOC CRM); celles-ci sont diffusées officiellement en format RDFS et répertoriées ci-dessous. Elles seront utiles aux utilisateurs qui créent des diagrammes de modèles de données fondés sur le CIDOC CRM.
 
-  - CIDOC CRM base (version 6.2.1)
+  - CIDOC CRM base (version 7.1.1)
 
   - FRBRoo (version 2.4)
 
@@ -237,7 +237,7 @@ Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ense
 
   - CRMdig (version 3.2.2)
 
-  - CRMpc (version 1.1.1)
+  - CRMpc (version 7.1.1)
 
   - CRMarchaeo (version 1.4.1)
 
