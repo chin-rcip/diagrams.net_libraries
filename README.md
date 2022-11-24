@@ -176,7 +176,7 @@ Consult the following resources for further information on how to generate, shar
 
 Files in this repository are made available under the MIT License. To meet the attribution requirements of this license, you must indicate the copyright holder using the following:
 
-> Copyright (c) 2021 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau Canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
+> Copyright (c) 2021-2022 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau Canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
 
 > diagrams.net is distributed under [Apache License 2.0](https://github.com/jgraph/drawio/blob/dev/LICENSE).
 > Copyright 2021 diagrams.net (JGraph)
@@ -372,7 +372,7 @@ Pour en savoir plus sur la création, l’échange et le chargement des biblioth
 
 Les fichiers de ce répertoire sont distribués en vertu de la licence MIT. Pour satisfaire aux exigences relatives à son attribution, vous devez préciser comme suit le détenteur du droit d’auteur :
 
-> Copyright (c) 2021 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
+> Copyright (c) 2021-2022 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
 
 > diagrams.net est distribué sous la licence [Apache License 2.0](https://github.com/jgraph/drawio/blob/dev/LICENSE).
 > Copyright 2021 diagrams.net (JGraph)
