@@ -32,7 +32,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 ## Context
 
-**[diagrams.net](https://www.diagrams.net/) libraries** is a collection of custom shape library files (.xml) of ontologies used to represent semantic patterns through [diagrams.net](https://www.diagrams.net/). It is maintained by the Canadian Heritage Information Network (CHIN) and used to generate diagrams in the context of its Linked Open Data projects. Currently, CHIN provides seven libraries for the following CIDOC CRM ontologies (i.e. the ones that are officially released in RDFS format). The libraries are of benefit to users who design diagrams for data models that are based on CIDOC CRM.
+**[diagrams.net](https://www.diagrams.net/) libraries** is a collection of custom shape library files (.xml) of ontologies used to represent semantic patterns through [diagrams.net](https://www.diagrams.net/). It is maintained by the Canadian Heritage Information Network (CHIN) and used to generate diagrams in the context of its Linked Open Data projects. Currently, CHIN provides eight libraries for the following CIDOC CRM ontologies (i.e. the ones that are officially released in RDFS format). The libraries are of benefit to users who design diagrams for data models that are based on CIDOC CRM.
 
   - CIDOC CRM base (version 7.1.3): includes two libraries, one with properties' quantification, and one without.
 
@@ -54,7 +54,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 A custom library is a set of pre-designed shapes that can be easily dragged and dropped in the drawing canvas to facilitate the drawing process. It is usually found on the left side panel of the diagrams.net editor.
 
-Each library contains the shapes of all the [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) as well as the connectors for the [properties](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) of each ontology. The colour scheme (see below) is based on a proposal by George Bruseker for [CIDOC CRM](http://www.cidoc-crm.org/).
+Each library contains the shapes of all the [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) as well as the connectors for the [properties](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) of each ontology. The colour scheme (see below) is based on a proposal by CIDOC CRM SIG for [CIDOC CRM](http://www.cidoc-crm.org/).
 
 ![](/images/color_en.png)
 
@@ -153,11 +153,92 @@ Once loaded, the library is usually cached by the browser, so there is no need t
 
 Each library contains two types of shapes:
 
-  - Rounded rectangle shapes for classes (each shape is filled with colour, per the colour scheme described above).
+1. Rounded rectangle shapes for classes (each shape is filled with colour, per the colour scheme described above).
 
-  - Black arrows for properties.
+    - Shape:
 
-Each shape has a label based on the CIDOC CRM naming convention, i.e. with an underscore after the entity’s code and between each string (`E2_Temporal_Entity`), and spaces in its title (E2 Temporal Entity) to facilitate the “**Search Shapes**” function located at the top of the left side panel.
+        - Rounded rectangle
+
+        - Border:
+
+            - solid 
+            
+            - black
+            
+            - 1 pt
+        
+        - Width: 140
+
+        - Height: 70 
+
+        - Fill: per the colour scheme described above
+
+    - Text:
+
+        - Font: Helvetica
+
+        - Size: 16
+
+        - Color: black
+
+        - Horizontal align: center
+
+        - Vertical align: middle
+
+        - Weight: bold
+
+        - Word wrap
+
+        - Value: entity name without underscore
+
+    - Data:
+
+        - URI
+        
+        - Labels in available languages
+        
+        - No scope note
+        
+        - Link (clickable)
+
+
+2. Black arrows for properties.
+
+    - Shape:
+
+        - One-way arrow
+
+        - Stroke width: 2 pt
+        
+        - Color: black
+
+    - Text:
+
+        - Font: Helvetica
+
+        - Size: 14
+
+        - Color: black
+
+        - Horizontal align: center
+
+        - Vertical align: middle
+
+        - Weight: bold
+
+        - Background color: white
+
+        - Value: entity name without underscore, quantifications
+
+    - Data:
+
+        - URI
+        
+        - Labels in available languages
+        
+        - No scope note
+        
+        - Link (clickable)
 
 ![](/images/diagrams_net_en_2.png)
 
@@ -234,7 +315,7 @@ Un aperçu des bibliothèques logicielles diagrams.net et explique comment les u
 
 ## Contexte
 
-Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ensemble de fichiers XML d’ontologies qui sert à représenter des patrons conceptuels à l’aide du logiciel [diagrams.net](https://www.diagrams.net/). Tenu à jour par le Réseau canadien d’information sur le patrimoine (RCIP), ces bibliothèques logicielles permettent de créer des diagrammes dans le cadre de projets de données ouvertes et liées. Le RCIP a jusqu’à maintenant créé sept bibliothèques destinées aux ontologies du Modèle conceptuel de référence du Comité international pour la Documentation (CIDOC CRM); celles-ci sont diffusées officiellement en format RDFS et répertoriées ci-dessous. Elles seront utiles aux utilisateurs qui créent des diagrammes de modèles de données fondés sur le CIDOC CRM.
+Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ensemble de fichiers XML d’ontologies qui sert à représenter des patrons conceptuels à l’aide du logiciel [diagrams.net](https://www.diagrams.net/). Tenu à jour par le Réseau canadien d’information sur le patrimoine (RCIP), ces bibliothèques logicielles permettent de créer des diagrammes dans le cadre de projets de données ouvertes et liées. Le RCIP a jusqu’à maintenant créé huit bibliothèques destinées aux ontologies du Modèle conceptuel de référence du Comité international pour la Documentation (CIDOC CRM); celles-ci sont diffusées officiellement en format RDFS et répertoriées ci-dessous. Elles seront utiles aux utilisateurs qui créent des diagrammes de modèles de données fondés sur le CIDOC CRM.
 
   - CIDOC CRM base (version 7.1.3) : comprend deux bibliothèques logicielles, une avec la quantification des propriétés et l'autre sans.
 
@@ -256,7 +337,7 @@ Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ense
 
 Une bibliothèque consiste en un ensemble de formes qu’on peut simplement glisser et déposer dans un diagramme pour en faciliter la création. Elle se trouve habituellement dans le volet gauche du logiciel diagrams.net.
 
-Chaque bibliothèque contient les formes de toutes les [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) et les connecteurs correspondant aux [propriétés](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) de chaque ontologie. La palette de couleurs choisie (voir ci-dessous) est fondée sur une proposition de George Bruseker pour le [CIDOC CRM](http://www.cidoc-crm.org/) .
+Chaque bibliothèque contient les formes de toutes les [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) et les connecteurs correspondant aux [propriétés](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) de chaque ontologie. La palette de couleurs choisie (voir ci-dessous) est fondée sur une proposition du CIDOC CRM SIG pour le [CIDOC CRM](http://www.cidoc-crm.org/) .
 
 ![](/images/color_fr.png)
 
@@ -356,11 +437,91 @@ Une fois chargée, la bibliothèque est habituellement gardée dans la mémoire 
 
 Les bibliothèques contiennent deux types de formes :
 
-  - des rectangles arrondis colorés selon la palette de couleurs décrite ci-dessus et qui représentent les classes;
+1. des rectangles arrondis colorés selon la palette de couleurs décrite ci-dessus et qui représentent les classes;
 
-  - des flèches noires qui représentent les propriétés.
+    - Shape:
 
-Chaque forme est étiquetée selon la nomenclature du CIDOC CRM, c’est-à-dire un caractère de soulignement après le code de l’entité et entre chaque mot, par exemple, « `E2_Temporal_Entity` ». Pour simplifier les recherches à l’aide du champ **Chercher des formes** dans la partie supérieure du volet de gauche, ces caractères de soulignement sont remplacés par des espaces dans le titre  : « E2 Temporal Entity ».
+        - Rounded rectangle
+
+        - Border:
+
+            - solid 
+            
+            - black
+            
+            - 1 pt
+        
+        - Width: 140
+
+        - Height: 70 
+
+        - Fill: per the colour scheme described above
+
+    - Text:
+
+        - Font: Helvetica
+
+        - Size: 16
+
+        - Color: black
+
+        - Horizontal align: center
+
+        - Vertical align: middle
+
+        - Weight: bold
+
+        - Word wrap
+
+        - Value: entity name without underscore
+
+    - Data:
+
+        - URI
+        
+        - Labels in available languages
+        
+        - No scope note
+        
+        - Link (clickable)
+
+2. des flèches noires qui représentent les propriétés.
+
+    - Shape:
+
+        - One-way arrow
+
+        - Stroke width: 2 pt
+        
+        - Color: black
+
+    - Text:
+
+        - Font: Helvetica
+
+        - Size: 14
+
+        - Color: black
+
+        - Horizontal align: center
+
+        - Vertical align: middle
+
+        - Weight: bold
+
+        - Background color: white
+
+        - Value: entity name without underscore, quantifications
+
+    - Data:
+
+        - URI
+        
+        - Labels in available languages
+        
+        - No scope note
+        
+        - Link (clickable)
 
 ![](/images/diagrams_net_fr_2.png)
 
