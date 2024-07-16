@@ -8,7 +8,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 **Created date**: 2021-04-22
 
-**Last update**: 2022-11-23
+**Last update**: 2024-07-16
 
 **Contact**: For any questions and/or feedback, please contact us at pch.RCIP-CHIN.pch@canada.ca, indicating “diagrams.net libraries” in the subject line of the email.
 
