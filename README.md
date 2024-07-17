@@ -337,7 +337,7 @@ Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ense
 
 Une bibliothèque consiste en un ensemble de formes qu’on peut simplement glisser et déposer dans un diagramme pour en faciliter la création. Elle se trouve habituellement dans le volet gauche du logiciel diagrams.net.
 
-Chaque bibliothèque contient les formes de toutes les [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) et les connecteurs correspondant aux [propriétés](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) de chaque ontologie. La palette de couleurs choisie (voir ci-dessous) est fondée sur une proposition du CIDOC CRM SIG pour le [CIDOC CRM](http://www.cidoc-crm.org/) .
+Chaque bibliothèque contient les formes de toutes les [classes](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#class-noun) et les connecteurs correspondant aux [propriétés](https://chin-rcip.github.io/collections-model/en/resources/current/glossary#property-noun) de chaque ontologie. La palette de couleurs choisie (voir ci-dessous) est fondée sur une proposition du CIDOC CRM SIG pour le [CIDOC CRM](http://www.cidoc-crm.org/).
 
 ![](/images/color_fr.png)
 
@@ -439,89 +439,89 @@ Les bibliothèques contiennent deux types de formes :
 
 1. des rectangles arrondis colorés selon la palette de couleurs décrite ci-dessus et qui représentent les classes;
 
-    - Shape:
+    - Forme:
 
-        - Rounded rectangle
+        - Rectangle arrondi
 
-        - Border:
+        - Bordure:
 
-            - solid 
+            - pleine 
             
-            - black
+            - noire
             
             - 1 pt
         
-        - Width: 140
+        - Largeur: 140
 
-        - Height: 70 
+        - Hauteur: 70 
 
-        - Fill: per the colour scheme described above
+        - Remplissage: selon la palette de couleurs décrite ci-dessus
 
-    - Text:
+    - Texte:
 
-        - Font: Helvetica
+        - Police: Helvetica
 
-        - Size: 16
+        - Taille: 16
 
-        - Color: black
+        - Couleur: noir
 
-        - Horizontal align: center
+        - Alignement horizontal: centré
 
-        - Vertical align: middle
+        - Alignement vertical: milieu
 
-        - Weight: bold
+        - Poids de la police: gras
 
-        - Word wrap
+        - Retour à la ligne
 
-        - Value: entity name without underscore
+        - Valeur: nom de l'entité sans barre de soulignement
 
-    - Data:
+    - Donnée:
 
         - URI
         
-        - Labels in available languages
+        - Étiquettes dans les langues disponibles
         
-        - No scope note
+        - Pas de note d'application
         
-        - Link (clickable)
+        - Lien (cliquable)
 
 2. des flèches noires qui représentent les propriétés.
 
-    - Shape:
+    - Forme:
 
-        - One-way arrow
+        - Flèche unidirectionnelle
 
-        - Stroke width: 2 pt
+        - Largeur du trait: 2 pt
         
-        - Color: black
+        - Couleur: noire
 
-    - Text:
+    - Texte:
 
-        - Font: Helvetica
+        - Police: Helvetica
 
-        - Size: 14
+        - Taille: 14
 
-        - Color: black
+        - Couleur: noir
 
-        - Horizontal align: center
+        - Alignement horizontal: centré
 
-        - Vertical align: middle
+        - Alignement vertical: milieu
 
-        - Weight: bold
+        - Poids de la police: gras
 
-        - Background color: white
+        - Couleur de l'arrière-plan: blanc
+          
+        - Valeur: nom de l'entité sans barre de soulignement, quantifications
 
-        - Value: entity name without underscore, quantifications
-
-    - Data:
+    - Donnée:
 
         - URI
         
-        - Labels in available languages
+        - Étiquettes dans les langues disponibles
         
-        - No scope note
+        - Pas de note d'application
         
-        - Link (clickable)
+        - Lien (cliquable)
 
 ![](/images/diagrams_net_fr_2.png)
 
