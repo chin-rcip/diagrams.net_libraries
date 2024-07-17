@@ -291,7 +291,7 @@ Un aperçu des bibliothèques logicielles diagrams.net et explique comment les u
 
 **Créé le** : 2021-04-22
 
-**Mis à jour le** : 2021-06-14
+**Mis à jour le** : 2024-07-16
 
 **Des questions?** : Veuillez adresser vos questions et commentaires par courriel à l’adresse [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca). Précisez « Bibliothèques diagrams.net » dans l’objet.
 
