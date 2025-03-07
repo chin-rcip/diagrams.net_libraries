@@ -7714,7 +7714,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F1_Work",
                 "labels": {
-                    "en": "Work"
+                    "en": "Work",
+                    "fr": "Œuvre"
                 }
             },
             "spc": [
@@ -7727,7 +7728,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F2_Expression",
                 "labels": {
-                    "en": "Expression"
+                    "en": "Expression",
+                    "fr": "Expression"
                 }
             },
             "spc": [
@@ -7740,7 +7742,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F3_Manifestation",
                 "labels": {
-                    "en": "Manifestation"
+                    "en": "Manifestation",
+                    "fr": "Manifestation"
                 }
             },
             "spc": [
@@ -7753,7 +7756,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F5_Item",
                 "labels": {
-                    "en": "Item"
+                    "en": "Item",
+                    "fr": "Item"
                 }
             },
             "spc": [
@@ -7766,7 +7770,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F11_Corporate_Body",
                 "labels": {
-                    "en": "Corporate Body"
+                    "en": "Corporate Body",
+                    "fr": "Personne morale"
                 }
             },
             "spc": [
@@ -7780,7 +7785,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F12_Nomen",
                 "labels": {
-                    "en": "Nomen"
+                    "en": "Nomen",
+                    "fr": "Nomen"
                 }
             },
             "spc": [
@@ -7793,7 +7799,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F18_Serial_Work",
                 "labels": {
-                    "en": "Serial Work"
+                    "en": "Serial Work",
+                    "fr": "Œuvre de publication en série"
                 }
             },
             "spc": [
@@ -7807,7 +7814,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F27_Work_Creation",
                 "labels": {
-                    "en": "Work Creation"
+                    "en": "Work Creation",
+                    "fr": "Création d'œuvre"
                 }
             },
             "spc": [
@@ -7820,7 +7828,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F28_Expression_Creation",
                 "labels": {
-                    "en": "Expression Creation"
+                    "en": "Expression Creation",
+                    "fr": "Création d'expression"
                 }
             },
             "spc": [
@@ -7834,7 +7843,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F30_Manifestation_Creation",
                 "labels": {
-                    "en": "Manifestation Creation"
+                    "en": "Manifestation Creation",
+                    "fr": "Création de manifestation"
                 }
             },
             "spc": [
@@ -7848,7 +7858,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F31_Performance",
                 "labels": {
-                    "en": "Performance"
+                    "en": "Performance",
+                    "fr": "Performance"
                 }
             },
             "spc": [
@@ -7861,7 +7872,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F32_Item_Production_Event",
                 "labels": {
-                    "en": "Item Production Event"
+                    "en": "Item Production Event",
+                    "fr": "Évènement de production d'item"
                 }
             },
             "spc": [
@@ -7874,7 +7886,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F33_Reproduction_Event",
                 "labels": {
-                    "en": "Reproduction Event"
+                    "en": "Reproduction Event",
+                    "fr": "Évènement de reproduction"
                 }
             },
             "spc": [
@@ -7888,7 +7901,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F36_Script_Conversion",
                 "labels": {
-                    "en": "Script Conversion"
+                    "en": "Script Conversion",
+                    "fr": "Conversion de script"
                 }
             },
             "spc": [
@@ -7901,7 +7915,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F39_Family",
                 "labels": {
-                    "en": "Family"
+                    "en": "Family",
+                    "fr": "Famille"
                 }
             },
             "spc": [
@@ -7915,7 +7930,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/F55_Collective_Agent",
                 "labels": {
-                    "en": "Collective Agent"
+                    "en": "Collective Agent",
+                    "fr": "Agent collectif"
                 }
             },
             "spc": [
@@ -7928,7 +7944,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R1_is_logical_successor_of",
                 "labels": {
-                    "en": "is logical successor of"
+                    "en": "is logical successor of",
+                    "fr": "est le successeur logique de"
                 }
             }
         },
@@ -7937,7 +7954,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R1i_has_successor",
                 "labels": {
-                    "en": "has successor"
+                    "en": "has successor",
+                    "fr": "a pour successeur"
                 }
             }
         },
@@ -7946,7 +7964,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R2_is_derivative_of",
                 "labels": {
-                    "en": "is derivative of"
+                    "en": "is derivative of",
+                    "fr": "est dérivé de"
                 }
             }
         },
@@ -7955,7 +7974,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R2i_has_derivative",
                 "labels": {
-                    "en": "has derivative"
+                    "en": "has derivative",
+                    "fr": "a pour dérivé"
                 }
             }
         },
@@ -7964,7 +7984,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R3_is_realised_in",
                 "labels": {
-                    "en": "is realised in"
+                    "en": "is realised in",
+                    "fr": "est réalisé dans"
                 }
             }
         },
@@ -7973,7 +7994,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R3i_realises",
                 "labels": {
-                    "en": "realises"
+                    "en": "realises",
+                    "fr": "réalise"
                 }
             }
         },
@@ -7982,7 +8004,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R4_embodies",
                 "labels": {
-                    "en": "embodies"
+                    "en": "embodies",
+                    "fr": "incarne"
                 }
             }
         },
@@ -7991,7 +8014,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R4i_is_embodied_in",
                 "labels": {
-                    "en": "is embodied in"
+                    "en": "is embodied in",
+                    "fr": "est incarné dans"
                 }
             }
         },
@@ -8000,7 +8024,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R5_has_component",
                 "labels": {
-                    "en": "has component"
+                    "en": "has component",
+                    "fr": "a pour composant"
                 }
             }
         },
@@ -8009,7 +8034,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R5i_is_component_of",
                 "labels": {
-                    "en": "is component of"
+                    "en": "is component of",
+                    "fr": "est le composant de"
                 }
             }
         },
@@ -8018,7 +8044,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R7_exemplifies",
                 "labels": {
-                    "en": "exemplifies"
+                    "en": "exemplifies",
+                    "fr": "exemplifie"
                 }
             }
         },
@@ -8027,7 +8054,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R7i_is_exemplified_by",
                 "labels": {
-                    "en": "is exemplified by"
+                    "en": "is exemplified by",
+                    "fr": "est exemplifié par"
                 }
             }
         },
@@ -8036,7 +8064,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R8_combines",
                 "labels": {
-                    "en": "combines"
+                    "en": "combines",
+                    "fr": "combine"
                 }
             }
         },
@@ -8045,7 +8074,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R8i_is_combined_to_form",
                 "labels": {
-                    "en": "is combined to form"
+                    "en": "is combined to form",
+                    "fr": "est combiné pour former"
                 }
             }
         },
@@ -8054,7 +8084,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R10_is_member_of",
                 "labels": {
-                    "en": "is member of"
+                    "en": "is member of",
+                    "fr": "est composant de"
                 }
             }
         },
@@ -8063,7 +8094,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R10i_has_member",
                 "labels": {
-                    "en": "has member"
+                    "en": "has member",
+                    "fr": "a pour composant"
                 }
             }
         },
@@ -8072,7 +8104,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R11_has_issuing_rule",
                 "labels": {
-                    "en": "has issuing rule"
+                    "en": "has issuing rule",
+                    "fr": "a pour règle d'émission"
                 }
             }
         },
@@ -8081,7 +8114,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R11i_is_issuing_rule_of",
                 "labels": {
-                    "en": "is issuing rule of"
+                    "en": "is issuing rule of",
+                    "fr": "est une règle d'émission de"
                 }
             }
         },
@@ -8090,7 +8124,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R15_has_fragment",
                 "labels": {
-                    "en": "has fragment"
+                    "en": "has fragment",
+                    "fr": "a pour fragment"
                 }
             }
         },
@@ -8099,7 +8134,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R15i_is_fragment_of",
                 "labels": {
-                    "en": "is fragment of"
+                    "en": "is fragment of",
+                    "fr": "est un fragment de"
                 }
             }
         },
@@ -8108,7 +8144,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R16_created",
                 "labels": {
-                    "en": "created"
+                    "en": "created",
+                    "fr": "a créé"
                 }
             }
         },
@@ -8117,7 +8154,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R16i_was_created_by",
                 "labels": {
-                    "en": "was created by"
+                    "en": "was created by",
+                    "fr": "a été créé par"
                 }
             }
         },
@@ -8126,7 +8164,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R17_created",
                 "labels": {
-                    "en": "created"
+                    "en": "created",
+                    "fr": "a créé"
                 }
             }
         },
@@ -8135,7 +8174,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R17i_was_created_by",
                 "labels": {
-                    "en": "was created by"
+                    "en": "was created by",
+                    "fr": "a été créé par"
                 }
             }
         },
@@ -8144,7 +8184,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R19_created_a_realisation_of",
                 "labels": {
-                    "en": "created a realisation of"
+                    "en": "created a realisation of",
+                    "fr": "a créé une réalisation de"
                 }
             }
         },
@@ -8153,7 +8194,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R19i_was_realised_through",
                 "labels": {
-                    "en": "was realised through"
+                    "en": "was realised through",
+                    "fr": "a été réalisé par"
                 }
             }
         },
@@ -8162,7 +8204,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R24_created",
                 "labels": {
-                    "en": "created"
+                    "en": "created",
+                    "fr": "a créé"
                 }
             }
         },
@@ -8171,7 +8214,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R24i_was_created_through",
                 "labels": {
-                    "en": "was created through"
+                    "en": "was created through",
+                    "fr": "a été créé à travers"
                 }
             }
         },
@@ -8180,7 +8224,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R27_materialized",
                 "labels": {
-                    "en": "materialized"
+                    "en": "materialized",
+                    "fr": "a matérialisé"
                 }
             }
         },
@@ -8189,7 +8234,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R27i_was_materialized_by",
                 "labels": {
-                    "en": "was materialized by"
+                    "en": "was materialized by",
+                    "fr": "a été matérialisé par"
                 }
             }
         },
@@ -8198,7 +8244,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R28_produced",
                 "labels": {
-                    "en": "produced"
+                    "en": "produced",
+                    "fr": "produit"
                 }
             }
         },
@@ -8207,7 +8254,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R28i_was_produced_by",
                 "labels": {
-                    "en": "was produced by"
+                    "en": "was produced by",
+                    "fr": "a été produit par"
                 }
             }
         },
@@ -8216,7 +8264,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R29_reproduced_object",
                 "labels": {
-                    "en": "reproduced object"
+                    "en": "reproduced object",
+                    "fr": "objet reproduit"
                 }
             }
         },
@@ -8225,7 +8274,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R29i_was_object_reproduced_by",
                 "labels": {
-                    "en": "was object reproduced by"
+                    "en": "was object reproduced by",
+                    "fr": "était l'objet reproduit par"
                 }
             }
         },
@@ -8234,7 +8284,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R30_reproduced_publication",
                 "labels": {
-                    "en": "reproduced publication"
+                    "en": "reproduced publication",
+                    "fr": "publication reproduite"
                 }
             }
         },
@@ -8243,7 +8294,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R30i_was_publication_reproduced_by",
                 "labels": {
-                    "en": "was publication reproduced by"
+                    "en": "was publication reproduced by",
+                    "fr": "était la publication reproduite par"
                 }
             }
         },
@@ -8252,7 +8304,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R33_has_string",
                 "labels": {
-                    "en": "has string"
+                    "en": "has string",
+                    "fr": "a pour chaîne de caractères"
                 }
             }
         },
@@ -8261,7 +8314,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R35_is_specified_by",
                 "labels": {
-                    "en": "is specified by"
+                    "en": "is specified by",
+                    "fr": "est spécifié par"
                 }
             }
         },
@@ -8270,7 +8324,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R35i_specifies",
                 "labels": {
-                    "en": "specifies"
+                    "en": "specifies",
+                    "fr": "spécifie"
                 }
             }
         },
@@ -8279,7 +8334,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R36_uses_script_conversion",
                 "labels": {
-                    "en": "uses script conversion"
+                    "en": "uses script conversion",
+                    "fr": "utilise la conversion de script"
                 }
             }
         },
@@ -8288,7 +8344,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R36i_is_script_conversion_used_in",
                 "labels": {
-                    "en": "is script conversion used in"
+                    "en": "is script conversion used in",
+                    "fr": "est la conversion de script utilisée dans"
                 }
             }
         },
@@ -8297,7 +8354,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R54_has_language",
                 "labels": {
-                    "en": "has language"
+                    "en": "has language",
+                    "fr": "a pour langue"
                 }
             }
         },
@@ -8306,7 +8364,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R54i_is_language_of",
                 "labels": {
-                    "en": "is language of"
+                    "en": "is language of",
+                    "fr": "est la langue de"
                 }
             }
         },
@@ -8315,7 +8374,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R56_has_related_form",
                 "labels": {
-                    "en": "has related form"
+                    "en": "has related form",
+                    "fr": "a pour forme connexe"
                 }
             }
         },
@@ -8324,7 +8384,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R56i_is_related_form_of",
                 "labels": {
-                    "en": "is related form of"
+                    "en": "is related form of",
+                    "fr": "est la forme connexe de"
                 }
             }
         },
@@ -8333,7 +8394,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R67_has_part",
                 "labels": {
-                    "en": "has part"
+                    "en": "has part",
+                    "fr": "a pour élément"
                 }
             }
         },
@@ -8342,7 +8404,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R67i_forms_part_of",
                 "labels": {
-                    "en": "forms part of"
+                    "en": "forms part of",
+                    "fr": "fait partie de"
                 }
             }
         },
@@ -8351,7 +8414,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R68_is_inspired_by",
                 "labels": {
-                    "en": "is inspired by"
+                    "en": "is inspired by",
+                    "fr": "est inspiré de"
                 }
             }
         },
@@ -8360,7 +8424,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R68i_is_inspiration_for",
                 "labels": {
-                    "en": "is inspiration for"
+                    "en": "is inspiration for",
+                    "fr": "est source d'inspiration pour"
                 }
             }
         },
@@ -8369,7 +8434,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R69_has_physical_form",
                 "labels": {
-                    "en": "has physical form"
+                    "en": "has physical form",
+                    "fr": "a pour forme physique"
                 }
             }
         },
@@ -8378,7 +8444,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R69i_is_physical_form_of",
                 "labels": {
-                    "en": "is physical form of"
+                    "en": "is physical form of",
+                    "fr": "est forme physique de"
                 }
             }
         },
@@ -8387,7 +8454,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R70_has_dimension",
                 "labels": {
-                    "en": "has dimension"
+                    "en": "has dimension",
+                    "fr": "a pour dimension"
                 }
             }
         },
@@ -8396,7 +8464,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R70i_is_dimension_of",
                 "labels": {
-                    "en": "is dimension of"
+                    "en": "is dimension of",
+                    "fr": "est la dimension de"
                 }
             }
         },
@@ -8405,7 +8474,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R71_has_part",
                 "labels": {
-                    "en": "has part"
+                    "en": "has part",
+                    "fr": "a pour élément"
                 }
             }
         },
@@ -8414,7 +8484,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R71i_is_part_of",
                 "labels": {
-                    "en": "is part of"
+                    "en": "is part of",
+                    "fr": "fait partie de"
                 }
             }
         },
@@ -8423,7 +8494,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R73_takes_representative_attribute_from",
                 "labels": {
-                    "en": "takes representative attribute from"
+                    "en": "takes representative attribute from",
+                    "fr": "prend l'attribut représentatif de"
                 }
             }
         },
@@ -8432,7 +8504,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R73i_bears_representative_attribute_for",
                 "labels": {
-                    "en": "bears representative attribute for"
+                    "en": "bears representative attribute for",
+                    "fr": "porte l'attribut représentatif pour"
                 }
             }
         },
@@ -8441,7 +8514,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R74_uses_expression_of",
                 "labels": {
-                    "en": "uses expression of"
+                    "en": "uses expression of",
+                    "fr": "utilise l'expression de"
                 }
             }
         },
@@ -8450,7 +8524,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R74i_has_expression_used_in",
                 "labels": {
-                    "en": "has expression used in"
+                    "en": "has expression used in",
+                    "fr": "a l'expression utilisée dans"
                 }
             }
         },
@@ -8459,7 +8534,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R75_incorporates",
                 "labels": {
-                    "en": "incorporates"
+                    "en": "incorporates",
+                    "fr": "incorpore"
                 }
             }
         },
@@ -8468,7 +8544,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R75i_is_incorporated_in",
                 "labels": {
-                    "en": "is incorporated in"
+                    "en": "is incorporated in",
+                    "fr": "est inclus dans"
                 }
             }
         },
@@ -8477,7 +8554,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R76_is_derivative_of",
                 "labels": {
-                    "en": "is derivative of"
+                    "en": "is derivative of",
+                    "fr": "est dérivé de"
                 }
             }
         },
@@ -8486,7 +8564,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R76i_has_derivative",
                 "labels": {
-                    "en": "has derivative"
+                    "en": "has derivative",
+                    "fr": "a pour dérivé"
                 }
             }
         },
@@ -8495,7 +8574,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R77_accompanies_or_complements",
                 "labels": {
-                    "en": "accompanies or complements"
+                    "en": "accompanies or complements",
+                    "fr": "accompagne ou complémente"
                 }
             }
         },
@@ -8504,7 +8584,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R77i_is_accompanied_or_complemented_by",
                 "labels": {
-                    "en": "is accompanied or complemented by"
+                    "en": "is accompanied or complemented by",
+                    "fr": "est accompagné ou complémenté de"
                 }
             }
         },
@@ -8513,7 +8594,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R78_has_alternate",
                 "labels": {
-                    "en": "has alternate"
+                    "en": "has alternate",
+                    "fr": "a pour présentation alternative"
                 }
             }
         },
@@ -8522,7 +8604,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R79_has_representative_expression_attribute",
                 "labels": {
-                    "en": "has representative expression attribute"
+                    "en": "has representative expression attribute",
+                    "fr": "a l'attribut d'expression représentatif"
                 }
             }
         },
@@ -8531,7 +8614,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R79i_is_representative_expression_attribute_of",
                 "labels": {
-                    "en": "is representative expression attribute of"
+                    "en": "is representative expression attribute of",
+                    "fr": "est l'attribut d'expression représentatif de"
                 }
             }
         },
@@ -8540,7 +8624,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R80_performed",
                 "labels": {
-                    "en": "performed"
+                    "en": "performed",
+                    "fr": "performé"
                 }
             }
         },
@@ -8549,7 +8634,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R80i_is_performed_in",
                 "labels": {
-                    "en": "is performed in"
+                    "en": "is performed in",
+                    "fr": "est performé dans"
                 }
             }
         },
@@ -8558,7 +8644,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R81_recorded",
                 "labels": {
-                    "en": "recorded"
+                    "en": "recorded",
+                    "fr": "enregistré"
                 }
             }
         },
@@ -8567,7 +8654,8 @@
             "data": {
                 "URI": "http://iflastandards.info/ns/lrm/lrmoo/R81i_is_recorded_in",
                 "labels": {
-                    "en": "is recorded in"
+                    "en": "is recorded in",
+                    "fr": "est enregistré dans"
                 }
             }
         },
@@ -11553,6 +11641,3018 @@
                 "URI": "http://www.ics.forth.gr/isl/CRMext/CRMdig.rdfs/L61_was_ongoing_at",
                 "labels": {
                     "en": "was ongoing at"
+                }
+            }
+        },
+        "ZE1_Institutional_Fact": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE1_Institutional_Fact",
+                "labels": {
+                    "en": "Institutional Fact"
+                }
+            },
+            "spc": [
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE2_Appellative_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE2_Appellative_Status",
+                "labels": {
+                    "en": "Appellative Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE3_Contact_Point_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE3_Contact_Point_Status",
+                "labels": {
+                    "en": "Contact Point Status"
+                }
+            },
+            "spc": [
+                "ZE2_Appellative_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE4_Classificatory_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE4_Classificatory_Status",
+                "labels": {
+                    "en": "Classificatory Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE5_Function_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE5_Function_Status",
+                "labels": {
+                    "en": "Function Status"
+                }
+            },
+            "spc": [
+                "ZE4_Classificatory_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE6_Social_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE6_Social_Status",
+                "labels": {
+                    "en": "Social Status"
+                }
+            },
+            "spc": [
+                "ZE4_Classificatory_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE7_Custodial_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE7_Custodial_Status",
+                "labels": {
+                    "en": "Custodial Status"
+                }
+            },
+            "spc": [
+                "ZE30_Property_Right_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE8_Ownership_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE8_Ownership_Status",
+                "labels": {
+                    "en": "Ownership Status"
+                }
+            },
+            "spc": [
+                "ZE30_Property_Right_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE9_Residential_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE9_Residential_Status",
+                "labels": {
+                    "en": "Residential Status"
+                }
+            },
+            "spc": [
+                "ZE35_Locative_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE10_Family_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE10_Family_Status",
+                "labels": {
+                    "en": "Family Status"
+                }
+            },
+            "spc": [
+                "ZE55_Social_Relation_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE11_Membership_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE11_Membership_Status",
+                "labels": {
+                    "en": "Membership Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE12_Referential_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE12_Referential_Status",
+                "labels": {
+                    "en": "Referential Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE13_Speech_Act": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE13_Speech_Act",
+                "labels": {
+                    "en": "Speech Act"
+                }
+            },
+            "spc": [
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE14_Similarity_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE14_Similarity_Status",
+                "labels": {
+                    "en": "Similarity Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE15_Set_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE15_Set_Status",
+                "labels": {
+                    "en": "Set Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE17_Digital_Reading": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE17_Digital_Reading",
+                "labels": {
+                    "en": "Digital Reading"
+                }
+            },
+            "spc": [
+                "ZE13_Speech_Act",
+                "D7_Digital_Machine_Event",
+                "TX5_Text_Recognition"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE18_Critical_Reading": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE18_Critical_Reading",
+                "labels": {
+                    "en": "Critical Reading"
+                }
+            },
+            "spc": [
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE19_Naming": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE19_Naming",
+                "labels": {
+                    "en": "Naming"
+                }
+            },
+            "spc": [
+                "E13_Attribute_Assignment",
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE20_Declarative_Acquisition": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE20_Declarative_Acquisition",
+                "labels": {
+                    "en": "Declarative Acquisition"
+                }
+            },
+            "spc": [
+                "E8_Acquisition",
+                "ZE29_Transfer_of_Property_Right",
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE21_Declarative_Transfer_of_Custody": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE21_Declarative_Transfer_of_Custody",
+                "labels": {
+                    "en": "Declarative Transfer of Custody"
+                }
+            },
+            "spc": [
+                "ZE29_Transfer_of_Property_Right",
+                "E10_Transfer_of_Custody"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE22_Declarative_Joining": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE22_Declarative_Joining",
+                "labels": {
+                    "en": "Declarative Joining"
+                }
+            },
+            "spc": [
+                "ZE13_Speech_Act",
+                "E85_Joining"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE23_Declarative_Leaving": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE23_Declarative_Leaving",
+                "labels": {
+                    "en": "Declarative Leaving"
+                }
+            },
+            "spc": [
+                "ZE13_Speech_Act",
+                "E86_Leaving"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE24_Notional_Set": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE24_Notional_Set",
+                "labels": {
+                    "en": "Notional Set"
+                }
+            },
+            "spc": [
+                "E28_Conceptual_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "ZE25_Dating_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE25_Dating_Status",
+                "labels": {
+                    "en": "Dating Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE26_Dating_Declaration": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE26_Dating_Declaration",
+                "labels": {
+                    "en": "Dating Declaration"
+                }
+            },
+            "spc": [
+                "I1_Argumentation",
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE27_Declaration_of_Obligation": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE27_Declaration_of_Obligation",
+                "labels": {
+                    "en": "Declaration of Obligation"
+                }
+            },
+            "spc": [
+                "ZE46_Promisory_Agreement",
+                "F28_Expression_Creation",
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE28_Obligation_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE28_Obligation_Status",
+                "labels": {
+                    "en": "Obligation Status"
+                }
+            },
+            "spc": [
+                "ZE45_Promisory_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE29_Transfer_of_Property_Right": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE29_Transfer_of_Property_Right",
+                "labels": {
+                    "en": "Transfer of Property Right"
+                }
+            },
+            "spc": [
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE30_Property_Right_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE30_Property_Right_Status",
+                "labels": {
+                    "en": "Property Right Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE33_Declarative_Formation": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE33_Declarative_Formation",
+                "labels": {
+                    "en": "Declarative Formation"
+                }
+            },
+            "spc": [
+                "ZE13_Speech_Act",
+                "E66_Formation"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE34_Declarative_Dissolution": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE34_Declarative_Dissolution",
+                "labels": {
+                    "en": "Declarative Dissolution"
+                }
+            },
+            "spc": [
+                "E68_Dissolution",
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE35_Locative_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE35_Locative_Status",
+                "labels": {
+                    "en": "Locative Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE36_Persons": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE36_Persons",
+                "labels": {
+                    "en": "Persons"
+                }
+            },
+            "spc": [
+                "E39_Actor"
+            ],
+            "color": "#ffbdca"
+        },
+        "ZE37_Population": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE37_Population",
+                "labels": {
+                    "en": "Population"
+                }
+            },
+            "spc": [
+                "ZE36_Persons",
+                "E18_Physical_Thing"
+            ],
+            "color": "#ffbdca"
+        },
+        "ZE38_Population_Existence": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE38_Population_Existence",
+                "labels": {
+                    "en": "Population Existence"
+                }
+            },
+            "spc": [
+                "E5_Event"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE39_Polity": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE39_Polity",
+                "labels": {
+                    "en": "Polity"
+                }
+            },
+            "spc": [
+                "ZE37_Population",
+                "ZE36_Persons",
+                "E18_Physical_Thing"
+            ],
+            "color": "#ffbdca"
+        },
+        "ZE43_Physical_Locative_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE43_Physical_Locative_Status",
+                "labels": {
+                    "en": "Physical Locative Status"
+                }
+            },
+            "spc": [
+                "ZE35_Locative_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE44_Topographical_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE44_Topographical_Status",
+                "labels": {
+                    "en": "Topographical Status"
+                }
+            },
+            "spc": [
+                "ZE35_Locative_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE45_Promisory_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE45_Promisory_Status",
+                "labels": {
+                    "en": "Promissory Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE46_Promisory_Agreement": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE46_Promisory_Agreement",
+                "labels": {
+                    "en": "Promissory Agreement Event"
+                }
+            },
+            "spc": [
+                "F28_Expression_Creation",
+                "ZE13_Speech_Act",
+                "ZE52_Transformative_Symbolic_Act",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE49_Text_Sequence_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE49_Text_Sequence_Status",
+                "labels": {
+                    "en": "Text Sequence Status"
+                }
+            },
+            "spc": [
+                "ZE35_Locative_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE50_Authority_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE50_Authority_Status",
+                "labels": {
+                    "en": "Authority Status"
+                }
+            },
+            "spc": [
+                "ZE6_Social_Status",
+                "ZE4_Classificatory_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE52_Transformative_Symbolic_Act": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE52_Transformative_Symbolic_Act",
+                "labels": {
+                    "en": "Transformative Symbolic Act"
+                }
+            },
+            "spc": [
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE53_Symbolic_Act": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE53_Symbolic_Act",
+                "labels": {
+                    "en": "Symbolic Act"
+                }
+            },
+            "spc": [
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE55_Social_Relation_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE55_Social_Relation_Status",
+                "labels": {
+                    "en": "Social Relation Status"
+                }
+            },
+            "spc": [
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZE59_Plan": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE59_Plan",
+                "labels": {
+                    "en": "Plan"
+                }
+            },
+            "spc": [
+                "F2_Expression",
+                "E29_Design_or_Procedure"
+            ],
+            "color": "#fddc34"
+        },
+        "ZE60_Evental_Locative_Status": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZE60_Evental_Locative_Status",
+                "labels": {
+                    "en": "Evental Locative Status"
+                }
+            },
+            "spc": [
+                "ZE35_Locative_Status",
+                "ZE1_Institutional_Fact",
+                "E2_Temporal_Entity"
+            ],
+            "color": "#82ddff"
+        },
+        "ZP1_has_intentional_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP1_has_intentional_subject",
+                "labels": {
+                    "en": "has intentional subject"
+                }
+            }
+        },
+        "ZP2_ascribes_intentional_target": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP2_ascribes_intentional_target",
+                "labels": {
+                    "en": "ascribes intentional target"
+                }
+            }
+        },
+        "ZP3_ascribes_intentional_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP3_ascribes_intentional_relation",
+                "labels": {
+                    "en": "ascribes intentional relation"
+                }
+            }
+        },
+        "ZP4_holds_for": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP4_holds_for",
+                "labels": {
+                    "en": "holds for"
+                }
+            }
+        },
+        "ZP5_has_appellative_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP5_has_appellative_subject",
+                "labels": {
+                    "en": "has appellative subject"
+                }
+            }
+        },
+        "ZP6_ascribes_appellation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP6_ascribes_appellation",
+                "labels": {
+                    "en": "ascribes appellation"
+                }
+            }
+        },
+        "ZP7_ascribes_appellative_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP7_ascribes_appellative_relation",
+                "labels": {
+                    "en": "ascribes appellative relation"
+                }
+            }
+        },
+        "ZP8_has_contact_point_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP8_has_contact_point_subject",
+                "labels": {
+                    "en": "has contact point subject"
+                }
+            }
+        },
+        "ZP9_ascribes_contact_point": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP9_ascribes_contact_point",
+                "labels": {
+                    "en": "ascribes contact point"
+                }
+            }
+        },
+        "ZP10_ascribes_contact_point_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP10_ascribes_contact_point_relation",
+                "labels": {
+                    "en": "ascribes contact point relation"
+                }
+            }
+        },
+        "ZP11_has_classificatory_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP11_has_classificatory_subject",
+                "labels": {
+                    "en": "has classificatory subject"
+                }
+            }
+        },
+        "ZP12_ascribes_classification": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP12_ascribes_classification",
+                "labels": {
+                    "en": "ascribes classification"
+                }
+            }
+        },
+        "ZP13_ascribes_classification_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP13_ascribes_classification_relation",
+                "labels": {
+                    "en": "ascribes classification relation"
+                }
+            }
+        },
+        "ZP14_has_functional_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP14_has_functional_subject",
+                "labels": {
+                    "en": "has functional subject"
+                }
+            }
+        },
+        "ZP15_ascribes_function": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP15_ascribes_function",
+                "labels": {
+                    "en": "ascribes function"
+                }
+            }
+        },
+        "ZP16_ascribes_functional_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP16_ascribes_functional_relation",
+                "labels": {
+                    "en": "ascribes functional relation"
+                }
+            }
+        },
+        "ZP17_has_social_status_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP17_has_social_status_subject",
+                "labels": {
+                    "en": "has social status subject"
+                }
+            }
+        },
+        "ZP18_ascribes_social_status": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP18_ascribes_social_status",
+                "labels": {
+                    "en": "ascribes social status"
+                }
+            }
+        },
+        "ZP19_ascribes_social_status_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP19_ascribes_social_status_relation",
+                "labels": {
+                    "en": "ascribes social status relation"
+                }
+            }
+        },
+        "ZP20_has_custodial_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP20_has_custodial_subject",
+                "labels": {
+                    "en": "has custodial subject"
+                }
+            }
+        },
+        "ZP21_ascribes_custodian": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP21_ascribes_custodian",
+                "labels": {
+                    "en": "ascribes custodian"
+                }
+            }
+        },
+        "ZP22_ascribes_custodial_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP22_ascribes_custodial_relation",
+                "labels": {
+                    "en": "ascribes custodial relation"
+                }
+            }
+        },
+        "ZP23_has_ownership_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP23_has_ownership_subject",
+                "labels": {
+                    "en": "has ownership subject"
+                }
+            }
+        },
+        "ZP24_ascribes_owner": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP24_ascribes_owner",
+                "labels": {
+                    "en": "ascribes owner"
+                }
+            }
+        },
+        "ZP25_ascribes_ownership_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP25_ascribes_ownership_relation",
+                "labels": {
+                    "en": "ascribes ownership relation"
+                }
+            }
+        },
+        "ZP26_has_residence_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP26_has_residence_subject",
+                "labels": {
+                    "en": "has residence subject"
+                }
+            }
+        },
+        "ZP27_acribes_residence_place": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP27_acribes_residence_place",
+                "labels": {
+                    "en": "ascribes residence place"
+                }
+            }
+        },
+        "ZP28_ascribes_residence_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP28_ascribes_residence_relation",
+                "labels": {
+                    "en": "ascribes residence relation"
+                }
+            }
+        },
+        "ZP29_has_familial_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP29_has_familial_subject",
+                "labels": {
+                    "en": "has familial subject"
+                }
+            }
+        },
+        "ZP30_ascribes_relative": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP30_ascribes_relative",
+                "labels": {
+                    "en": "ascribes relative"
+                }
+            }
+        },
+        "ZP31_ascribes_familial_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP31_ascribes_familial_relation",
+                "labels": {
+                    "en": "ascribes familial relation"
+                }
+            }
+        },
+        "ZP32_has_membership_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP32_has_membership_subject",
+                "labels": {
+                    "en": "has membership subject"
+                }
+            }
+        },
+        "ZP33_ascribes_group": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP33_ascribes_group",
+                "labels": {
+                    "en": "ascribes group"
+                }
+            }
+        },
+        "ZP34_ascribes_membership_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP34_ascribes_membership_relation",
+                "labels": {
+                    "en": "ascribes membership relation"
+                }
+            }
+        },
+        "ZP35_has_referential_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP35_has_referential_subject",
+                "labels": {
+                    "en": "has referential subject"
+                }
+            }
+        },
+        "ZP36_ascribes_referent": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP36_ascribes_referent",
+                "labels": {
+                    "en": "ascribes referent"
+                }
+            }
+        },
+        "ZP37_ascribes_referential_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP37_ascribes_referential_relation",
+                "labels": {
+                    "en": "ascribes referential relation"
+                }
+            }
+        },
+        "ZP38_ascribes_referential_mode": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP38_ascribes_referential_mode",
+                "labels": {
+                    "en": "ascribes referential mode"
+                }
+            }
+        },
+        "ZP40_performed": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP40_performed",
+                "labels": {
+                    "en": "performed"
+                }
+            }
+        },
+        "ZP41_uttered": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP41_uttered",
+                "labels": {
+                    "en": "uttered"
+                }
+            }
+        },
+        "ZP42_intentionally_initiated": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP42_intentionally_initiated",
+                "labels": {
+                    "en": "intentionally initiated"
+                }
+            }
+        },
+        "ZP43_has_similarity_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP43_has_similarity_subject",
+                "labels": {
+                    "en": "has similarity subject"
+                }
+            }
+        },
+        "ZP44_ascribes_similarity_target": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP44_ascribes_similarity_target",
+                "labels": {
+                    "en": "ascribes similarity target"
+                }
+            }
+        },
+        "ZP45_ascribes_similarity_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP45_ascribes_similarity_relation",
+                "labels": {
+                    "en": "ascribes similarity relation"
+                }
+            }
+        },
+        "ZP46_ascribes_similarity_mode": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP46_ascribes_similarity_mode",
+                "labels": {
+                    "en": "ascribes similarity mode"
+                }
+            }
+        },
+        "ZP47_has_set_belonging_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP47_has_set_belonging_subject",
+                "labels": {
+                    "en": "has set belonging subject"
+                }
+            }
+        },
+        "ZP48_ascribes_set": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP48_ascribes_set",
+                "labels": {
+                    "en": "ascribes set"
+                }
+            }
+        },
+        "ZP49_ascribes_set_belonging_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP49_ascribes_set_belonging_relation",
+                "labels": {
+                    "en": "ascribes set belonging relation"
+                }
+            }
+        },
+        "ZP51_has_former_or_current_set_member": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP51_has_former_or_current_set_member",
+                "labels": {
+                    "en": "has former or current set member"
+                }
+            }
+        },
+        "ZP52_intentionally_terminated": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP52_intentionally_terminated",
+                "labels": {
+                    "en": "intentionally terminated"
+                }
+            }
+        },
+        "ZP54_ascribes_relative_date": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP54_ascribes_relative_date",
+                "labels": {
+                    "en": "ascribes relative date"
+                }
+            }
+        },
+        "ZP55_has_dating_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP55_has_dating_subject",
+                "labels": {
+                    "en": "has dating subject"
+                }
+            }
+        },
+        "ZP56_ascribes_dating_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP56_ascribes_dating_relation",
+                "labels": {
+                    "en": "ascribes dating relation"
+                }
+            }
+        },
+        "ZP57_has_obligation_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP57_has_obligation_subject",
+                "labels": {
+                    "en": "has obligation subject"
+                }
+            }
+        },
+        "ZP58_ascribes_debtor": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP58_ascribes_debtor",
+                "labels": {
+                    "en": "ascribes debtor"
+                }
+            }
+        },
+        "ZP59_ascribes_obligation_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP59_ascribes_obligation_relation",
+                "labels": {
+                    "en": "ascribes obligation relation"
+                }
+            }
+        },
+        "ZP60_ascribes_debtee": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP60_ascribes_debtee",
+                "labels": {
+                    "en": "ascribes debtee"
+                }
+            }
+        },
+        "ZP61_transferred_property_right_to": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP61_transferred_property_right_to",
+                "labels": {
+                    "en": "transferred property right to"
+                }
+            }
+        },
+        "ZP62_transferred_property_right_from": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP62_transferred_property_right_from",
+                "labels": {
+                    "en": "transferred property right from"
+                }
+            }
+        },
+        "ZP63_transferred_property_right_over": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP63_transferred_property_right_over",
+                "labels": {
+                    "en": "transferred property right over"
+                }
+            }
+        },
+        "ZP64_has_property_right_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP64_has_property_right_subject",
+                "labels": {
+                    "en": "has property right subject"
+                }
+            }
+        },
+        "ZP65_ascribes_property_right_holder": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP65_ascribes_property_right_holder",
+                "labels": {
+                    "en": "ascribes property right holder"
+                }
+            }
+        },
+        "ZP66_ascribes_property_right_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP66_ascribes_property_right_relation",
+                "labels": {
+                    "en": "ascribes property right relation"
+                }
+            }
+        },
+        "ZP67_generated_obligation_upon": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP67_generated_obligation_upon",
+                "labels": {
+                    "en": "generated obligation upon"
+                }
+            }
+        },
+        "ZP68_generated_obligation_to": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP68_generated_obligation_to",
+                "labels": {
+                    "en": "generated obligation to"
+                }
+            }
+        },
+        "ZP69_generated_obligation_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP69_generated_obligation_of",
+                "labels": {
+                    "en": "generated obligation of"
+                }
+            }
+        },
+        "ZP70_ascribes_social_status_in_relation_to": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP70_ascribes_social_status_in_relation_to",
+                "labels": {
+                    "en": "ascribes social status in relation to"
+                }
+            }
+        },
+        "ZP75_applies_for_context": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP75_applies_for_context",
+                "labels": {
+                    "en": "applies for context"
+                }
+            }
+        },
+        "ZP76_applies_for_context_type": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP76_applies_for_context_type",
+                "labels": {
+                    "en": "applies for context type"
+                }
+            }
+        },
+        "ZP77_ascribes_place": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP77_ascribes_place",
+                "labels": {
+                    "en": "ascribes place"
+                }
+            }
+        },
+        "ZP78_had_constituent": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP78_had_constituent",
+                "labels": {
+                    "en": "had constituent"
+                }
+            }
+        },
+        "ZP79_had_population": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP79_had_population",
+                "labels": {
+                    "en": "had population"
+                }
+            }
+        },
+        "ZP83_has_physical_locative_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP83_has_physical_locative_subject",
+                "labels": {
+                    "en": "has physical locative subject"
+                }
+            }
+        },
+        "ZP84_ascribes_location_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP84_ascribes_location_relation",
+                "labels": {
+                    "en": "ascribes location relation"
+                }
+            }
+        },
+        "ZP85_has_topographical_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP85_has_topographical_subject",
+                "labels": {
+                    "en": "has topographical subject"
+                }
+            }
+        },
+        "ZP86_ascribes_promissee": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP86_ascribes_promissee",
+                "labels": {
+                    "en": "ascribes promisee"
+                }
+            }
+        },
+        "ZP87_ascribes_promisor": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP87_ascribes_promisor",
+                "labels": {
+                    "en": "ascribes promisor"
+                }
+            }
+        },
+        "ZP88_ascribes_topographical_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP88_ascribes_topographical_relation",
+                "labels": {
+                    "en": "ascribes topographical relation"
+                }
+            }
+        },
+        "ZP89_has_promisory_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP89_has_promisory_subject",
+                "labels": {
+                    "en": "has promissory subject"
+                }
+            }
+        },
+        "ZP90_ascribes_promisory_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP90_ascribes_promisory_relation",
+                "labels": {
+                    "en": "ascribes promissory relation"
+                }
+            }
+        },
+        "ZP91_generated_promise_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP91_generated_promise_of",
+                "labels": {
+                    "en": "generated promise of"
+                }
+            }
+        },
+        "ZP93_has_text_sequence_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP93_has_text_sequence_subject",
+                "labels": {
+                    "en": "has text sequence subject"
+                }
+            }
+        },
+        "ZP94_ascribes_text_sequence_correlate": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP94_ascribes_text_sequence_correlate",
+                "labels": {
+                    "en": "ascribes text sequence correlate"
+                }
+            }
+        },
+        "ZP95_ascribes_text_sequence_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP95_ascribes_text_sequence_relation",
+                "labels": {
+                    "en": "ascribes text sequence relation"
+                }
+            }
+        },
+        "ZP96_has_authority_status_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP96_has_authority_status_subject",
+                "labels": {
+                    "en": "has authority status subject"
+                }
+            }
+        },
+        "ZP97_ascribes_authority_status": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP97_ascribes_authority_status",
+                "labels": {
+                    "en": "ascribes authority status"
+                }
+            }
+        },
+        "ZP100_challenged": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP100_challenged",
+                "labels": {
+                    "en": "challenged"
+                }
+            }
+        },
+        "ZP101_affirmed": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP101_affirmed",
+                "labels": {
+                    "en": "affirmed"
+                }
+            }
+        },
+        "ZP103_ascribes_social_relation_target": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP103_ascribes_social_relation_target",
+                "labels": {
+                    "en": "ascribes social relation target"
+                }
+            }
+        },
+        "ZP104_ascribes_social_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP104_ascribes_social_relation",
+                "labels": {
+                    "en": "ascribes social relation"
+                }
+            }
+        },
+        "ZP105_has_social_relation_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP105_has_social_relation_subject",
+                "labels": {
+                    "en": "has social relation subject"
+                }
+            }
+        },
+        "ZP111_initiated": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP111_initiated",
+                "labels": {
+                    "en": "initiated"
+                }
+            }
+        },
+        "ZP112_terminated": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP112_terminated",
+                "labels": {
+                    "en": "terminated"
+                }
+            }
+        },
+        "ZP113_has_successor_status": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP113_has_successor_status",
+                "labels": {
+                    "en": "has successor status"
+                }
+            }
+        },
+        "ZP114_has_geographic_scope": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP114_has_geographic_scope",
+                "labels": {
+                    "en": "has geographic scope"
+                }
+            }
+        },
+        "ZP115_holds_over": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP115_holds_over",
+                "labels": {
+                    "en": "holds over"
+                }
+            }
+        },
+        "ZP116_ascribes_authority_status_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP116_ascribes_authority_status_relation",
+                "labels": {
+                    "en": "ascribes authority status relation"
+                }
+            }
+        },
+        "ZP117_generated_promise_to": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP117_generated_promise_to",
+                "labels": {
+                    "en": "generated promise to"
+                }
+            }
+        },
+        "ZP118_generated_promise_upon": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP118_generated_promise_upon",
+                "labels": {
+                    "en": "generated promise upon"
+                }
+            }
+        },
+        "ZP119_ascribes_event_location_relation": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP119_ascribes_event_location_relation",
+                "labels": {
+                    "en": "ascribes event location relation"
+                }
+            }
+        },
+        "ZP120_has_event_location_subject": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP120_has_event_location_subject",
+                "labels": {
+                    "en": "has event location subject"
+                }
+            }
+        },
+        "ZP121_involved": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP121_involved",
+                "labels": {
+                    "en": "involved"
+                }
+            }
+        },
+        "ZP77i_is_place_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP77i_is_place_ascribed_by",
+                "labels": {
+                    "en": "is place ascribed by"
+                }
+            }
+        },
+        "ZP78i_was_constituent_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP78i_was_constituent_of",
+                "labels": {
+                    "en": "was constituent of"
+                }
+            }
+        },
+        "ZP79i_was_population_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP79i_was_population_of",
+                "labels": {
+                    "en": "was population of"
+                }
+            }
+        },
+        "ZP83i_is_physical_locative_subject_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP83i_is_physical_locative_subject_of",
+                "labels": {
+                    "en": "is physical locative subject of"
+                }
+            }
+        },
+        "ZP84i_is_location_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP84i_is_location_relation_ascribed_by",
+                "labels": {
+                    "en": "is location relation ascribed by"
+                }
+            }
+        },
+        "ZP85i_is_topographical_subject_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP85i_is_topographical_subject_of",
+                "labels": {
+                    "en": "is topographical subject of"
+                }
+            }
+        },
+        "ZP86i_is_promissee_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP86i_is_promissee_ascribed_by",
+                "labels": {
+                    "en": "is promisee ascribed by"
+                }
+            }
+        },
+        "ZP87i_is_promisor_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP87i_is_promisor_ascribed_by",
+                "labels": {
+                    "en": "is promisor ascribed by"
+                }
+            }
+        },
+        "ZP88i_is_topographical_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP88i_is_topographical_relation_ascribed_by",
+                "labels": {
+                    "en": "is topographical relation ascribed by"
+                }
+            }
+        },
+        "ZP89i_is_promissory_subject_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP89i_is_promissory_subject_of",
+                "labels": {
+                    "en": "is promissory subject of"
+                }
+            }
+        },
+        "ZP90i_is_promissory_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP90i_is_promissory_relation_ascribed_by",
+                "labels": {
+                    "en": "is promissory relation ascribed by"
+                }
+            }
+        },
+        "ZP91i_is_promise_generated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP91i_is_promise_generated_by",
+                "labels": {
+                    "en": "is promise generated by"
+                }
+            }
+        },
+        "ZP93i_is_text_sequence_subject_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP93i_is_text_sequence_subject_ascribed_by",
+                "labels": {
+                    "en": "is text sequence subject ascribed by"
+                }
+            }
+        },
+        "ZP94i_is_text_sequence_correlate_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP94i_is_text_sequence_correlate_ascribed_by",
+                "labels": {
+                    "en": "is text sequence correlate ascribed by"
+                }
+            }
+        },
+        "ZP95i_is_text_sequence_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP95i_is_text_sequence_relation_ascribed_by",
+                "labels": {
+                    "en": "is text sequence relation ascribed by"
+                }
+            }
+        },
+        "ZP96i_is_authority_status_subject_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP96i_is_authority_status_subject_of",
+                "labels": {
+                    "en": "is authority status subject of"
+                }
+            }
+        },
+        "ZP97i_is_authority_status_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP97i_is_authority_status_ascribed_by",
+                "labels": {
+                    "en": "is authority status ascribed by"
+                }
+            }
+        },
+        "ZP100i_was_challenged_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP100i_was_challenged_by",
+                "labels": {
+                    "en": "was challenged by"
+                }
+            }
+        },
+        "ZP101i_was_affirmed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP101i_was_affirmed_by",
+                "labels": {
+                    "en": "was affirmed by"
+                }
+            }
+        },
+        "ZP103i_is_social_relation_target_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP103i_is_social_relation_target_ascribed_by",
+                "labels": {
+                    "en": "is social relation target ascribed by"
+                }
+            }
+        },
+        "ZP104i_is_social_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP104i_is_social_relation_ascribed_by",
+                "labels": {
+                    "en": "is social relation ascribed by"
+                }
+            }
+        },
+        "ZP105i_is_social_relation_subject_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP105i_is_social_relation_subject_of",
+                "labels": {
+                    "en": "is social relation subject of"
+                }
+            }
+        },
+        "ZP111i_was_initiated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP111i_was_initiated_by",
+                "labels": {
+                    "en": "was initiated by"
+                }
+            }
+        },
+        "ZP112i_was_terminated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP112i_was_terminated_by",
+                "labels": {
+                    "en": "was terminated by"
+                }
+            }
+        },
+        "ZP113i_is_successor_status_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP113i_is_successor_status_of",
+                "labels": {
+                    "en": "is successor status of"
+                }
+            }
+        },
+        "ZP114i_is_geographic_scope_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP114i_is_geographic_scope_of",
+                "labels": {
+                    "en": "is geographic scope of"
+                }
+            }
+        },
+        "ZP115i_is_held_over_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP115i_is_held_over_by",
+                "labels": {
+                    "en": "is held over by"
+                }
+            }
+        },
+        "ZP116i_is_authority_status_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP116i_is_authority_status_relation_ascribed_by",
+                "labels": {
+                    "en": "is authority status relation ascribed by"
+                }
+            }
+        },
+        "ZP117i_was_promisee_in": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP117i_was_promisee_in",
+                "labels": {
+                    "en": "was promisee in"
+                }
+            }
+        },
+        "ZP118i_was_promisor_in": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP118i_was_promisor_in",
+                "labels": {
+                    "en": "was promisor in"
+                }
+            }
+        },
+        "ZP119i_is_event_location_relation_ascribed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP119i_is_event_location_relation_ascribed_by",
+                "labels": {
+                    "en": "is event location relation ascribed by"
+                }
+            }
+        },
+        "ZP120i_is_event_location_subject_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP120i_is_event_location_subject_of",
+                "labels": {
+                    "en": "is event location subject of"
+                }
+            }
+        },
+        "ZP121i_was_involved_in": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/aaao/ZP121i_was_involved_in",
+                "labels": {
+                    "en": "was involved in"
+                }
+            }
+        },
+        "WE1_Exercise_of_Authority": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE1_Exercise_of_Authority",
+                "labels": {
+                    "en": "Exercise of Authority"
+                }
+            },
+            "spc": [
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE2_Sovereignty": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE2_Sovereignty",
+                "labels": {
+                    "en": "Sovereignty"
+                }
+            },
+            "spc": [
+                "WE1_Exercise_of_Authority",
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE3_Embodied_Actor": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE3_Embodied_Actor",
+                "labels": {
+                    "en": "Embodied Actor"
+                }
+            },
+            "spc": [
+                "E20_Biological_Object",
+                "E39_Actor"
+            ],
+            "color": "#c78e66"
+        },
+        "WE4_Manifest_Group": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE4_Manifest_Group",
+                "labels": {
+                    "en": "Manifest Group"
+                }
+            },
+            "spc": [
+                "WE3_Embodied_Actor",
+                "E74_Group"
+            ],
+            "color": "#c78e66"
+        },
+        "WE5_Animal": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE5_Animal",
+                "labels": {
+                    "en": "Animal"
+                }
+            },
+            "spc": [
+                "WE3_Embodied_Actor",
+                "E20_Biological_Object",
+                "E39_Actor"
+            ],
+            "color": "#c78e66"
+        },
+        "WE6_Attack": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE6_Attack",
+                "labels": {
+                    "en": "Attack"
+                }
+            },
+            "spc": [
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE7_Voyage": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE7_Voyage",
+                "labels": {
+                    "en": "Voyage"
+                }
+            },
+            "spc": [
+                "WE12_Sending",
+                "E9_Move"
+            ],
+            "color": "#82ddff"
+        },
+        "WE8_Intentional_Destruction": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE8_Intentional_Destruction",
+                "labels": {
+                    "en": "Intentional Destruction"
+                }
+            },
+            "spc": [
+                "WE9_Destructive_Physical_Modification",
+                "E6_Destruction"
+            ],
+            "color": "#82ddff"
+        },
+        "WE9_Destructive_Physical_Modification": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE9_Destructive_Physical_Modification",
+                "labels": {
+                    "en": "Destructive Physical Modification"
+                }
+            },
+            "spc": [
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE10_Ameliorative_Physical_Modification": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE10_Ameliorative_Physical_Modification",
+                "labels": {
+                    "en": "Ameliorative Physical Modification"
+                }
+            },
+            "spc": [
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE11_Correspondence_Event": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE11_Correspondence_Event",
+                "labels": {
+                    "en": "Correspondence Event"
+                }
+            },
+            "spc": [
+                "F28",
+                "E12_Production",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "WE12_Sending": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE12_Sending",
+                "labels": {
+                    "en": "Sending"
+                }
+            },
+            "spc": [
+                "E9_Move"
+            ],
+            "color": "#82ddff"
+        },
+        "WE13_Visit": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE13_Visit",
+                "labels": {
+                    "en": "Visit"
+                }
+            },
+            "spc": [
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE14_Dwelling": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE14_Dwelling",
+                "labels": {
+                    "en": "Dwelling"
+                }
+            },
+            "spc": [
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WE15_Act_of_Authority": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WE15_Act_of_Authority",
+                "labels": {
+                    "en": "Act of Authority"
+                }
+            },
+            "spc": [
+                "ZE53_Symbolic_Act",
+                "E7_Activity"
+            ],
+            "color": "#82ddff"
+        },
+        "WP1_had_geographic_scope": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP1_had_geographic_scope",
+                "labels": {
+                    "en": "had geographic scope"
+                }
+            }
+        },
+        "WP2_had_authority_over": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP2_had_authority_over",
+                "labels": {
+                    "en": "had authority over"
+                }
+            }
+        },
+        "WP3_had_sovereign": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP3_had_sovereign",
+                "labels": {
+                    "en": "had sovereign"
+                }
+            }
+        },
+        "WP4_had_subject_population": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP4_had_subject_population",
+                "labels": {
+                    "en": "had subject population"
+                }
+            }
+        },
+        "WP5_was_manifestation_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP5_was_manifestation_of",
+                "labels": {
+                    "en": "was manifestation of"
+                }
+            }
+        },
+        "WP6_had_intended_target": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP6_had_intended_target",
+                "labels": {
+                    "en": "had intended target"
+                }
+            }
+        },
+        "WP7_was_undertaken_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP7_was_undertaken_by",
+                "labels": {
+                    "en": "was undertaken by"
+                }
+            }
+        },
+        "WP8_had_declared_intermediary_place": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP8_had_declared_intermediary_place",
+                "labels": {
+                    "en": "had declared intermediary place"
+                }
+            }
+        },
+        "WP9_had_declared_destination": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP9_had_declared_destination",
+                "labels": {
+                    "en": "had declared destination"
+                }
+            }
+        },
+        "WP10_diminished": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP10_diminished",
+                "labels": {
+                    "en": "diminished"
+                }
+            }
+        },
+        "WP11_ameliorated": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP11_ameliorated",
+                "labels": {
+                    "en": "ameliorated"
+                }
+            }
+        },
+        "WP12_had_addressee": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP12_had_addressee",
+                "labels": {
+                    "en": "had addressee"
+                }
+            }
+        },
+        "WP13_had_declared_origin": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP13_had_declared_origin",
+                "labels": {
+                    "en": "had declared origin"
+                }
+            }
+        },
+        "WP14_visited": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP14_visited",
+                "labels": {
+                    "en": "visited"
+                }
+            }
+        },
+        "WP15_dwelt_in": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP15_dwelt_in",
+                "labels": {
+                    "en": "dwelt in"
+                }
+            }
+        },
+        "WP16_had_combatant": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP16_had_combatant",
+                "labels": {
+                    "en": "had combatant"
+                }
+            }
+        },
+        "WP1i_was_geographic_scope_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP1i_was_geographic_scope_of",
+                "labels": {
+                    "en": "was geographic scope of"
+                }
+            }
+        },
+        "WP2i_was_subject_to_authority_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP2i_was_subject_to_authority_of",
+                "labels": {
+                    "en": "was subject to authority of"
+                }
+            }
+        },
+        "WP3i_exercised_authority_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP3i_exercised_authority_of",
+                "labels": {
+                    "en": "exercised authority of"
+                }
+            }
+        },
+        "WP4i_was_subject_population_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP4i_was_subject_population_of",
+                "labels": {
+                    "en": "was subject population of"
+                }
+            }
+        },
+        "WP5i_manifested_in": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP5i_manifested_in",
+                "labels": {
+                    "en": "manifested in"
+                }
+            }
+        },
+        "WP6i_was_intended_target_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP6i_was_intended_target_of",
+                "labels": {
+                    "en": "was intended target of"
+                }
+            }
+        },
+        "WP7i_undertook": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP7i_undertook",
+                "labels": {
+                    "en": "undertook"
+                }
+            }
+        },
+        "WP8i_was_declared_intermediary_place_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP8i_was_declared_intermediary_place_of",
+                "labels": {
+                    "en": "was declared intermediary place of"
+                }
+            }
+        },
+        "WP9i_was_declared_destination_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP9i_was_declared_destination_of",
+                "labels": {
+                    "en": "was declared destination of"
+                }
+            }
+        },
+        "WP10i_was_diminished_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP10i_was_diminished_by",
+                "labels": {
+                    "en": "was diminished by"
+                }
+            }
+        },
+        "WP11i_was_ameliorated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP11i_was_ameliorated_by",
+                "labels": {
+                    "en": "was ameliorated by"
+                }
+            }
+        },
+        "WP12i_was_addressee_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP12i_was_addressee_of",
+                "labels": {
+                    "en": "was addressee of"
+                }
+            }
+        },
+        "WP13i_was_declared_origin_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP13i_was_declared_origin_of",
+                "labels": {
+                    "en": "was declared origin of"
+                }
+            }
+        },
+        "WP14i_was_visited_through": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP14i_was_visited_through",
+                "labels": {
+                    "en": "was visited through"
+                }
+            }
+        },
+        "WP15i_was_dwelt_in_through": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP15i_was_dwelt_in_through",
+                "labels": {
+                    "en": "was dwelt in through"
+                }
+            }
+        },
+        "WP16i_was_combatant_in": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/pwro/WP16i_was_combatant_in",
+                "labels": {
+                    "en": "was combatant in"
+                }
+            }
+        },
+        "CC1_Model": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC1_Model",
+                "labels": {
+                    "en": "Model"
+                }
+            },
+            "spc": [
+                "CC5_Formulation",
+                "ZE59_Plan",
+                "F2_Expression",
+                "E29_Design_or_Procedure"
+            ],
+            "color": "#fddc34"
+        },
+        "CC2_Realization": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC2_Realization",
+                "labels": {
+                    "en": "Realization"
+                }
+            },
+            "spc": [
+                "E12_Production",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "CC3_Realization_Concept": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC3_Realization_Concept",
+                "labels": {
+                    "en": "Realization Concept"
+                }
+            },
+            "spc": [
+                "F1",
+                "E89_Propositional_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "CC4_Realization_Plan": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC4_Realization_Plan",
+                "labels": {
+                    "en": "Realization Plan"
+                }
+            },
+            "spc": [
+                "CC5_Formulation",
+                "ZE59_Plan",
+                "F2_Expression",
+                "E29_Design_or_Procedure"
+            ],
+            "color": "#fddc34"
+        },
+        "CC5_Formulation": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC5_Formulation",
+                "labels": {
+                    "en": "Formulation"
+                }
+            },
+            "spc": [
+                "ZE59_Plan",
+                "F2_Expression",
+                "E29_Design_or_Procedure"
+            ],
+            "color": "#fddc34"
+        },
+        "CC6_Programme": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC6_Programme",
+                "labels": {
+                    "en": "Programme"
+                }
+            },
+            "spc": [
+                "CC5_Formulation",
+                "ZE59_Plan",
+                "F2_Expression",
+                "E29_Design_or_Procedure"
+            ],
+            "color": "#fddc34"
+        },
+        "CC9_Oeuvre_Conception": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC9_Oeuvre_Conception",
+                "labels": {
+                    "en": "Oeuvre Conception"
+                }
+            },
+            "spc": [
+                "F27_Work_Creation",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "CC11_Object_Trigger_Template": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC11_Object_Trigger_Template",
+                "labels": {
+                    "en": "Object Trigger Template"
+                }
+            },
+            "spc": [
+                "E89_Propositional_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "CC12_Event_Trigger_Template": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC12_Event_Trigger_Template",
+                "labels": {
+                    "en": "Event Trigger Template"
+                }
+            },
+            "spc": [
+                "E89_Propositional_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "CC13_Design_Concept": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC13_Design_Concept",
+                "labels": {
+                    "en": "Design Concept"
+                }
+            },
+            "spc": [
+                "F1_Work",
+                "E89_Propositional_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "CC14_Programme_Conception": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC14_Programme_Conception",
+                "labels": {
+                    "en": "Programme Conception"
+                }
+            },
+            "spc": [
+                "F27_Work_Creation",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "CC15_Design_Conception": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC15_Design_Conception",
+                "labels": {
+                    "en": "Design Conception"
+                }
+            },
+            "spc": [
+                "F27_Work_Creation",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "CC16_Realization_Planning": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC16_Realization_Planning",
+                "labels": {
+                    "en": "Realization Planning"
+                }
+            },
+            "spc": [
+                "F27_Work_Creation",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "CC17_Projective_Requirements": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC17_Projective_Requirements",
+                "labels": {
+                    "en": "Projective Requirements"
+                }
+            },
+            "spc": [
+                "F1_Work",
+                "E89_Propositional_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "CC19_Assessment": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC19_Assessment",
+                "labels": {
+                    "en": "Assessment"
+                }
+            },
+            "spc": [
+                "E17_Type_Assignment",
+                "E65_Creation"
+            ],
+            "color": "#82ddff"
+        },
+        "CC20_Oeuvre": {
+            "type": "class",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CC20_Oeuvre",
+                "labels": {
+                    "en": "Oeuvre"
+                }
+            },
+            "spc": [
+                "F1_Work",
+                "E89_Propositional_Object"
+            ],
+            "color": "#fddc34"
+        },
+        "CP4_projects": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP4_projects",
+                "labels": {
+                    "en": "projects"
+                }
+            }
+        },
+        "CP5_stipulates_type_of_object_outcome": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP5_stipulates_type_of_object_outcome",
+                "labels": {
+                    "en": "stipulates type of object outcome"
+                }
+            }
+        },
+        "CP6_stipulates_event_type": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP6_stipulates_event_type",
+                "labels": {
+                    "en": "stipulates event type"
+                }
+            }
+        },
+        "CP7_stipulates_actor_type": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP7_stipulates_actor_type",
+                "labels": {
+                    "en": "stipulates actor type"
+                }
+            }
+        },
+        "CP8_stipulates_place": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP8_stipulates_place",
+                "labels": {
+                    "en": "stipulates place"
+                }
+            }
+        },
+        "CP9_stipulates_time-span": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP9_stipulates_time-span",
+                "labels": {
+                    "en": "stipulates time-span"
+                }
+            }
+        },
+        "CP10_stipulates_actor": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP10_stipulates_actor",
+                "labels": {
+                    "en": "stipulates actor"
+                }
+            }
+        },
+        "CP11_stipulates_equipment": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP11_stipulates_equipment",
+                "labels": {
+                    "en": "stipulates equipment"
+                }
+            }
+        },
+        "CP12_stipulates_particular_method": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP12_stipulates_particular_method",
+                "labels": {
+                    "en": "stipulates particular method"
+                }
+            }
+        },
+        "CP13_stipulates_specific_budget": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP13_stipulates_specific_budget",
+                "labels": {
+                    "en": "stipulates specific budget"
+                }
+            }
+        },
+        "CP14_stipulates_object_outcome": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP14_stipulates_object_outcome",
+                "labels": {
+                    "en": "stipulates object outcome"
+                }
+            }
+        },
+        "CP15_stipulates_sub-event": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP15_stipulates_sub-event",
+                "labels": {
+                    "en": "stipulates sub-event"
+                }
+            }
+        },
+        "CP16_stipulates_material": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP16_stipulates_material",
+                "labels": {
+                    "en": "stipulates material"
+                }
+            }
+        },
+        "CP17_stipulates_site": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP17_stipulates_site",
+                "labels": {
+                    "en": "stipulates site"
+                }
+            }
+        },
+        "CP18_stipulates_dimension": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP18_stipulates_dimension",
+                "labels": {
+                    "en": "stipulates dimension"
+                }
+            }
+        },
+        "CP19_stipulates_function": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP19_stipulates_function",
+                "labels": {
+                    "en": "stipulates function"
+                }
+            }
+        },
+        "CP20_stipulates_reference": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP20_stipulates_reference",
+                "labels": {
+                    "en": "stipulates reference"
+                }
+            }
+        },
+        "CP21_stipulates_part": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP21_stipulates_part",
+                "labels": {
+                    "en": "stipulates part"
+                }
+            }
+        },
+        "CP22_assessed": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP22_assessed",
+                "labels": {
+                    "en": "assessed"
+                }
+            }
+        },
+        "CP24_produced_revision": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP24_produced_revision",
+                "labels": {
+                    "en": "produced revision"
+                }
+            }
+        },
+        "CP25_concerns_extant_object": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP25_concerns_extant_object",
+                "labels": {
+                    "en": "concerns extant object"
+                }
+            }
+        },
+        "CP4i_was_projected_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP4i_was_projected_by",
+                "labels": {
+                    "en": "was projected by"
+                }
+            }
+        },
+        "CP5i_is_type_of_object_outcome_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP5i_is_type_of_object_outcome_stipulated_by",
+                "labels": {
+                    "en": "is type of object outcome stipulated by"
+                }
+            }
+        },
+        "CP6i_is_event_type_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP6i_is_event_type_stipulated_by",
+                "labels": {
+                    "en": "is event type stipulated by"
+                }
+            }
+        },
+        "CP7i_is_actor_type_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP7i_is_actor_type_stipulated_by",
+                "labels": {
+                    "en": "is actor type stipulated by"
+                }
+            }
+        },
+        "CP8i_is_place_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP8i_is_place_stipulated_by",
+                "labels": {
+                    "en": "is place stipulated by"
+                }
+            }
+        },
+        "CP9i_is_time-span_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP9i_is_time-span_stipulated_by",
+                "labels": {
+                    "en": "is time-span stipulated by"
+                }
+            }
+        },
+        "CP10i_is_actor_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP10i_is_actor_stipulated_by",
+                "labels": {
+                    "en": "is actor stipulated by"
+                }
+            }
+        },
+        "CP11i_is_equipment_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP11i_is_equipment_stipulated_by",
+                "labels": {
+                    "en": "is equipment stipulated by"
+                }
+            }
+        },
+        "CP12i_is_particular_method_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP12i_is_particular_method_stipulated_by",
+                "labels": {
+                    "en": "is particular method stipulated by"
+                }
+            }
+        },
+        "CP13i_is_budget_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP13i_is_budget_stipulated_by",
+                "labels": {
+                    "en": "is budget stipulated by"
+                }
+            }
+        },
+        "CP14i_is_object_outcome_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP14i_is_object_outcome_stipulated_by",
+                "labels": {
+                    "en": "is object outcome stipulated by"
+                }
+            }
+        },
+        "CP15i_is_sub-event_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP15i_is_sub-event_stipulated_by",
+                "labels": {
+                    "en": "is sub-event stipulated by"
+                }
+            }
+        },
+        "CP16i_is_material_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP16i_is_material_stipulated_by",
+                "labels": {
+                    "en": "is material stipulated by"
+                }
+            }
+        },
+        "CP17i_is_site_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP17i_is_site_stipulated_by",
+                "labels": {
+                    "en": "is site stipulated by"
+                }
+            }
+        },
+        "CP18i_is_dimension_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP18i_is_dimension_stipulated_by",
+                "labels": {
+                    "en": "is dimension stipulated by"
+                }
+            }
+        },
+        "CP19i_is_function_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP19i_is_function_stipulated_by",
+                "labels": {
+                    "en": "is function stipulated by"
+                }
+            }
+        },
+        "CP20i_is_reference_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP20i_is_reference_stipulated_by",
+                "labels": {
+                    "en": "is reference stipulated by"
+                }
+            }
+        },
+        "CP21i_is_part_stipulated_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP21i_is_part_stipulated_by",
+                "labels": {
+                    "en": "is part stipulated by"
+                }
+            }
+        },
+        "CP22i_was_assessed_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP22i_was_assessed_by",
+                "labels": {
+                    "en": "was assessed by"
+                }
+            }
+        },
+        "CP24i_was_revision_produced_by": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP24i_was_revision_produced_by",
+                "labels": {
+                    "en": "was revision produced byn"
+                }
+            }
+        },
+        "CP25i_is_object_of_concern_of": {
+            "type": "prop",
+            "data": {
+                "URI": "https://ontology.swissartresearch.net/cpro/CP25i_is_object_of_concern_of",
+                "labels": {
+                    "en": "is object of concern of"
                 }
             }
         }

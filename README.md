@@ -8,7 +8,7 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 **Created date**: 2021-04-22
 
-**Last update**: 2024-10-02
+**Last update**: 2025-03-07
 
 **Contact**: For any questions and/or feedback, please contact us at pch.RCIP-CHIN.pch@canada.ca, indicating “diagrams.net libraries” in the subject line of the email.
 
@@ -32,11 +32,11 @@ An overview of diagrams.net libraries and instructions on how to use them.
 
 ## Context
 
-**[diagrams.net](https://www.diagrams.net/) libraries** is a collection of custom shape library files (.xml) of ontologies used to represent semantic patterns through [diagrams.net](https://www.diagrams.net/). It is maintained by the Canadian Heritage Information Network (CHIN) and used to generate diagrams in the context of its Linked Open Data projects. Currently, CHIN provides eight libraries for the following CIDOC CRM ontologies (i.e. the ones that are officially released in RDFS format). The libraries are of benefit to users who design diagrams for data models that are based on CIDOC CRM.
+**[diagrams.net](https://www.diagrams.net/) libraries** is a collection of custom shape library files (.xml) of ontologies used to represent semantic patterns through [diagrams.net](https://www.diagrams.net/). It is maintained by the Canadian Heritage Information Network (CHIN) and used to generate diagrams in the context of its Linked Open Data projects. Currently, CHIN provides nine libraries for the following CIDOC CRM ontologies (i.e. the ones that are officially released in RDFS format). The libraries are of benefit to users who design diagrams for data models that are based on CIDOC CRM.
 
   - CIDOC CRM base (version 7.1.3): includes two libraries, one with properties' quantification, and one without.
 
-  - LRMoo (version 1.0)
+  - LRMoo (version 1.0): includes two libraries, English and French.
 
   - PRESSoo (version 1.0)
 
@@ -104,7 +104,12 @@ OR
            (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crm_quantifications_library.xml)
     
     2.  LRMoo
-        (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/lrmoo_library.xml)
+
+        a. English
+           (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/lrmoo_library.xml)
+
+        b. French
+           (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/lrmoo_fr_library.xml)
     
     3.  PRESSoo
         (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/pressoo_library.xml)
@@ -134,6 +139,8 @@ Click on the following URLs to open the diagrams.net editor with:
   - [CRM base library (with properties' quantification)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Fcrm_quantifications_library.xml)
 
   - [LRMoo library](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Flrmoo_library.xml)
+
+  - [LRMoo library (French)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Flrmoo_fr_library.xml)
 
   - [PRESSoo library](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Fpressoo_library.xml)
 
@@ -264,7 +271,7 @@ Consult the following resources for further information on how to generate, shar
 
 Files in this repository are made available under the MIT License. To meet the attribution requirements of this license, you must indicate the copyright holder using the following:
 
-> Copyright (c) 2021-2022 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau Canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
+> Copyright (c) 2021-2025 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau Canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
 
 > diagrams.net is distributed under [Apache License 2.0](https://github.com/jgraph/drawio/blob/dev/LICENSE).
 > Copyright 2021 diagrams.net (JGraph)
@@ -291,7 +298,7 @@ Un aperçu des bibliothèques logicielles diagrams.net et explique comment les u
 
 **Créé le** : 2021-04-22
 
-**Mis à jour le** : 2024-10-02
+**Mis à jour le** : 2025-03-07
 
 **Des questions?** : Veuillez adresser vos questions et commentaires par courriel à l’adresse [pch.RCIP-CHIN.pch@canada.ca](mailto:pch.RCIP-CHIN.pch@canada.ca). Précisez « Bibliothèques diagrams.net » dans l’objet.
 
@@ -315,11 +322,11 @@ Un aperçu des bibliothèques logicielles diagrams.net et explique comment les u
 
 ## Contexte
 
-Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ensemble de fichiers XML d’ontologies qui sert à représenter des patrons conceptuels à l’aide du logiciel [diagrams.net](https://www.diagrams.net/). Tenu à jour par le Réseau canadien d’information sur le patrimoine (RCIP), ces bibliothèques logicielles permettent de créer des diagrammes dans le cadre de projets de données ouvertes et liées. Le RCIP a jusqu’à maintenant créé huit bibliothèques destinées aux ontologies du Modèle conceptuel de référence du Comité international pour la Documentation (CIDOC CRM); celles-ci sont diffusées officiellement en format RDFS et répertoriées ci-dessous. Elles seront utiles aux utilisateurs qui créent des diagrammes de modèles de données fondés sur le CIDOC CRM.
+Les bibliothèques [diagrams.net](https://www.diagrams.net/) constituent un ensemble de fichiers XML d’ontologies qui sert à représenter des patrons conceptuels à l’aide du logiciel [diagrams.net](https://www.diagrams.net/). Tenu à jour par le Réseau canadien d’information sur le patrimoine (RCIP), ces bibliothèques logicielles permettent de créer des diagrammes dans le cadre de projets de données ouvertes et liées. Le RCIP a jusqu’à maintenant créé neuf bibliothèques destinées aux ontologies du Modèle conceptuel de référence du Comité international pour la Documentation (CIDOC CRM); celles-ci sont diffusées officiellement en format RDFS et répertoriées ci-dessous. Elles seront utiles aux utilisateurs qui créent des diagrammes de modèles de données fondés sur le CIDOC CRM.
 
   - CIDOC CRM base (version 7.1.3) : comprend deux bibliothèques logicielles, une avec la quantification des propriétés et l'autre sans.
 
-  - LRMoo (version 1.0)
+  - LRMoo (version 1.0): compred deux bibliothèques logicielles, anglais et français.
 
   - PRESSoo (version 1.0)
 
@@ -388,7 +395,12 @@ OU
            (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/crm_quantifications_library.xml)        
     
     2.  LRMoo
-        (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/lrmoo_library.xml)
+        
+        a. Anglais
+           (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/lrmoo_library.xml)
+
+        b. Français
+           (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/lrmoo_fr_library.xml)
     
     3.  PRESSoo
         (https://raw.githubusercontent.com/chin-rcip/diagrams.net_libraries/main/cidoc-crm/pressoo_library.xml)
@@ -418,6 +430,8 @@ Cliquez sur l’une des adresses suivantes pour ouvrir diagrams.net et y charger
   - [Bibliothèque CRM base (avec la quantification des propriétés)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Fcrm_quantifications_library.xml)
 
   - [Bibliothèque LRMoo](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Flrmoo_library.xml)
+
+  - [Bibliothèque LRMoo (français)](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Flrmoo_fr_library.xml)
 
   - [Bibliothèque PRESSoo](https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fchin-rcip%2Fdiagrams.net_libraries%2Fmain%2Fcidoc-crm%2Fpressoo_library.xml)
 
@@ -547,7 +561,7 @@ Pour en savoir plus sur la création, l’échange et le chargement des biblioth
 
 Les fichiers de ce répertoire sont distribués en vertu de la licence MIT. Pour satisfaire aux exigences relatives à son attribution, vous devez préciser comme suit le détenteur du droit d’auteur :
 
-> Copyright (c) 2021-2022 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
+> Copyright (c) 2021-2025 Canadian Heritage Information Network, Canadian Heritage, Government of Canada - Réseau canadien d'information sur le patrimoine, Patrimoine canadien, Gouvernement du Canada
 
 > diagrams.net est distribué sous la licence [Apache License 2.0](https://github.com/jgraph/drawio/blob/dev/LICENSE).
 > Copyright 2021 diagrams.net (JGraph)
