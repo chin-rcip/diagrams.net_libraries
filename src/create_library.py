@@ -243,6 +243,10 @@ def main(styleJSON,filename,baseOnto,extOnto,has_metadata,with_quant,lang):
 			style = e.attrib["style"]
 			new_style = re.sub('fillColor=#\w{6}', 'fillColor='+entity['color'], style)
 			e.set('style', new_style)
+			if shapeLabel == 'Instance':
+				e.set("libraryType", "instance")
+			else:
+				e.set("libraryType", "class")
 			mxgeo = root.find(".//mxGeometry")
 			mxgeo.set('width', str(width))
 
@@ -251,6 +255,7 @@ def main(styleJSON,filename,baseOnto,extOnto,has_metadata,with_quant,lang):
 			shape["h"] = 100
 			root = etree.fromstring(xml2)
 			e = root.find(".//mxCell[@style]")
+			e.set("libraryType", "property")
 			if with_quant is True:
 				if 'quants' in entity['data']:
 					quants = entity['data']['quants']
